@@ -28,4 +28,4 @@ The project evaluates the quality of synthetic data using:
 - **Rozi Khan**
 
 ---
-*Department of Software Engineering, Quetta, Pakistan.*
+*Department of Software Engineering, BUITEMS, Quetta, Pakistan.*
